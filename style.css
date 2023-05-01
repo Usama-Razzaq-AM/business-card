@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ccc5b9;
+    border-bottom: 8px solid #252422;
+}
+
+.bio {
+    color: #252422;
+    padding-top: 20px;
+}
+
+.logo {
+    width: 150px;
+    height: 200px;
+}
+
+.blue-border {
+    border: 1px dotted blue;
+}
